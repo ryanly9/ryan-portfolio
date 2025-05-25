@@ -6,7 +6,7 @@ const Works = () => {
     <section id="works">
       <h2 className='worksTitle'>Projects</h2>
       <span className="worksDesc">
-        Here's a look at some of the practical projects I've built while learning and applying my skills in web development and machine learning.
+        Here's a look at some of the practical projects I've built while learning and applying my skills in Web Development and Machine Learning.
       </span>
       <br /><br />
 
