@@ -14,13 +14,13 @@ const Skill = () => {
             </div>
             <div className="skillBar">
                 <img src="/images/ai.png" alt="Ai" className="skillBarImg" />
-                <div className="skillBarText"><h2> Artificial Intelliegence</h2>
+                <div className="skillBarText"><h2> Artificial Intelligence</h2>
                     <p> Working on a Chatbot for University Students to help them, <br />using natural language processing and conversational AI. </p></div>
             </div>
             <div className="skillBar">
                 <img src="/images/webD.png" alt="Web Design" className="skillBarImg" />
                 <div className="skillBarText"><h2> Web Development </h2>
-                    <p> Built an Employee Management System to help Organizations manage staff info & roles through an easy-to-use Website</p></div>
+                    <p> Built an Employee Management System that help Organization to manage staff info & roles through an easy-to-use Website</p></div>
             </div>
         </div>
     </section>
