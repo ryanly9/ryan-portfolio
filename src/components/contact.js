@@ -34,9 +34,9 @@ const Contact = () => {
             <textarea className='msg' name="message" rows="5" id="" placeholder='Your Message'></textarea>
             <button type='submit' value='send' className='submitBtn'>Submit</button>
             <div className='links'>
-                <a href="mailto:example@gmail.com"><img src="/images/gmail.png" alt="sshdkah" className='link' /></a>
+                <a href="mailto:ahmadryan7974@@gmail.com"><img src="/images/gmail.png" alt="sshdkah" className='link' /></a>
                 <a href="tel:+1234567890"><img src="/images/phone-call.png" alt="+91 99xxxxxx" className='link' /></a>
-                <a href="https://www.linkedin.com/in/ryan-ahmed127.com/" target="_blank" rel="noopener noreferrer" ><img src="/images/linkedin.png" alt="hulu@gmail.com" className='link' /></a>
+                <a href="https://www.linkedin.com/in/ryan-ahmad" target="_blank" rel="noopener noreferrer" ><img src="/images/linkedin.png" alt="hulu@gmail.com" className='link' /></a>
             </div>
             </form></div>
 
